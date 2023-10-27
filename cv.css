@@ -1,0 +1,42 @@
+.form1 h1{
+
+	text-align: center;
+	font-size: 80px;
+	font-family: sans-serif;
+	color: #d9c516;
+
+}
+
+	
+.form1 ul ul{
+	text-align: center;
+	padding: 10px;
+	font-size: 30px;
+	color: white;
+	border: 5px solid black;
+}
+.form1{
+	background-color: #287b9e;
+	border-width: 300px;
+	border: 5px solid #16c5d9;
+
+}
+.saimum{
+	margin: auto;
+	border: 5px solid black;
+	height: 800px;
+	width: 800px;
+	border: 5px;
+	border-color: black;
+}
+.id{
+	margin: auto;
+	text-align: center;
+	font-size: 70px;
+}
+.id i{
+	color: aqua;
+}
+.id.name1{
+	font-size: 20px;
+}
